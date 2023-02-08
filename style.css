@@ -1,4 +1,8 @@
+body{
+    background-color: hotpink;
+}
+
 em{
     color: red;
-    background: yellow;
+    background-color: yellow;
 }
